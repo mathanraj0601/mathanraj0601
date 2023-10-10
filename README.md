@@ -1,6 +1,6 @@
 ### Hello, everyone! 👋 I'm Mathan 🚀
 
-💼 Full Stack Developer |  🚀 DevOps Explorer | 🌟 Open Source Advocate | 📚 Committed to continuous learning and collaborative solutions
+💼 Full Stack Developer |  🚀 DevOps Explorer | 🌟 Open Source Contributor | 📚 Committed to continuous learning and collaborative solutions
 
 Let's code together and make magic happen! ✨💻
 
