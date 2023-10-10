@@ -4,7 +4,7 @@
 
 Let's code together and make magic happen! ✨💻
 
-### Hacktoberfest Badges
+### Hacktoberfest10 Badges
 [![An image of @mathanraj0601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mathanraj0601)](https://holopin.io/@mathanraj0601)
 
 <!--
