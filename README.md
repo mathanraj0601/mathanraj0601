@@ -7,10 +7,14 @@ Let's code together and make magic happen! ✨💻
 ### Hacktoberfest10 Badges
 [![An image of @mathanraj0601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mathanraj0601)](https://holopin.io/@mathanraj0601)
 
-### Learning 
-<div style="display: flex; align-items: center;">
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6537f1cd035e8d1be73367d7?variant=dark" alt="roadmap.sh"/></a>
+### Learning and Stats
+<div style="display: flex; align-items: center; justify-content: space-evenly;">
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6537f1cd035e8d1be73367d7?variant=dark" height="310px" alt="roadmap.sh"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathanraj0601&theme=whatsapp-dark" alt="my-streak" height="315px" width="750px" />
 </div>
+
+</div>
+
 
 ### Skills
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
