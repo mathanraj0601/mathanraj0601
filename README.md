@@ -10,7 +10,7 @@ Let's code together and make magic happen! ✨💻
 ### Learning and Stats
 <div style="display: flex; align-items: center; justify-content: space-evenly;">
   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6537f1cd035e8d1be73367d7?variant=dark" height="310px" alt="roadmap.sh"/></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathanraj0601&theme=whatsapp-dark" alt="my-streak" height="320px" width="720px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathanraj0601&theme=whatsapp-dark" alt="my-streak"  height="300px"  />
 </div>
 
 </div>
