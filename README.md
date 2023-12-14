@@ -8,12 +8,13 @@ Let's code together and make magic happen! ✨💻
 [![An image of @mathanraj0601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mathanraj0601)](https://holopin.io/@mathanraj0601)
 
 ### Learning and Stats
-<div style="display: flex; align-items: center; justify-content: space-evenly;">
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6537f1cd035e8d1be73367d7?variant=dark" width="23%" alt="roadmap.sh"/></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathanraj0601&theme=whatsapp-dark" alt="my-streak"   width="74%"/>
-</div>
 
-</div>
+|  Learning Now  | GitHub Streak Stats |
+| --- | --- | 
+| 1. AWS<br>2. JavaScript<br>3. Kubernetes<br>4. React |![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mathanraj0601&theme=whatsapp-dark) |
+
+
+
 
 
 ### Skills
